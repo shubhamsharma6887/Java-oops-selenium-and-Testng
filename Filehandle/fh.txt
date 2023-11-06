@@ -1,0 +1,18 @@
+Name : shubham sharma
+Email : shubhamsharma6887@gmail.com
+Mobile : 6265202613
+Date Of Birth : 02/02/1998
+Address : Indore
+Hobbies : cricket, reading, traveling
+Name : Rishabh sortha
+Email : rishabhsortha@gmail.com
+Mobile : 9826414773
+Date Of Birth : 07/09/1997
+Address : Indore
+Hobbies : Cricket, gyming, traveling
+Name : Yash kumawat
+Email : yashkumawat@gmail.com
+Mobile : 9999977777
+Date Of Birth : 01/01/1997
+Address : Indore
+Hobbies : Singing, Saving

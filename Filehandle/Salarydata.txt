@@ -1,0 +1,1 @@
+total salary of employee is : 25500

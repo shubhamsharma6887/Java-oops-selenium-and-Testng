@@ -1,0 +1,9 @@
+Simple intrest on principal amount of 75000.0 on rate of interest of 12.0 percent on time interval of 3.0 years is : 27000.0
+
+Simple intrest on principal amount of 100000.0 on rate of interest of 9.0 percent on time interval of 2.0 years is : 18000.0
+
+Simple intrest on principal amount of 25000.0 on rate of interest of 18.0 percent on time interval of 1.0 years is : 4500.0
+
+Simple intrest on principal amount of 1000.0 on rate of interest of 10.0 percent on time interval of 10.0 years is : 1000.0
+
+Simple intrest on principal amount of 200000.0 on rate of interest of 7.0 percent on time interval of 5.0 years is : 70000.0
